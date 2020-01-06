@@ -1,7 +1,5 @@
 # Array_3D_Handler
 A simple Java class with all needed 3D array handling methods.
-# Array_3D_Handler
-A simple Java class with all needed 3D array handling methods.
 <br>
 <h1>Assumptions</h1>
 <p>
