@@ -22,7 +22,7 @@ represented as double variables holding the values held within the Stack/Heap. I
 need to use temporals with the same name as these.
 </li>
 <li>
-Here, Stack and Heap are represented as Java arrays of doubles. The definition for them would be:
+Here, Stack and Heap are represented as Java arrays of doubles. The definition for them would be:<br>
 double[] STACK = new double[MAX_STACK];</br>
 double[] HEAP = new double[MAX_HEAP];</br>
 </li>
